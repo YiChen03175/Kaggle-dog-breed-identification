@@ -1,2 +1,2 @@
 # Dog Breed Identification
-This repo is for practicing Keras implementation on dog breed classification, which can get log loss **0.15** in competition without using Stanford dogs dataset. There are more details on my [jupyter notebook](./transfer-learning.ipynb).
+This repo is for practicing Keras implementation on dog breed classification, which can get log loss **0.15** in competition without using [Stanford dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). This log loss can rank ~13% on Leaderbroad. There are more details on my [jupyter notebook](./transfer-learning.ipynb).
